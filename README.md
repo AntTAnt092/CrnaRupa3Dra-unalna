@@ -1,6 +1,7 @@
 # CrnaRupa3Dracunalna - Antun Abičić, MiR
 Repozitorij za projekt Crne Rupe
-Video prezentacija projekta se nalazi na Teamsu jer nisam bio u mogućnosti uplodati file od 172 mb na github.
+
+ Video prezentacija projekta se nalazi na Teamsu jer nisam bio u mogućnosti uplodati file od 172 mb na github.
 Pregled projekta:
 Ovo je projekt Crne rupe u Blenderu. Radio sam simulaciju crne rupe po uzoru na film interstellar.
 Svrha projekta je pomoću raytracing metode simulirati u Blenderu fizički točnu i detaljnu crnu rupu.
